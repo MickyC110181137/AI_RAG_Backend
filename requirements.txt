@@ -1,0 +1,20 @@
+ctransformers==0.2.27
+Flask==3.0.3
+flask
+# huggingface-hub==0.21.4
+# llama_cpp_python==0.2.57
+matplotlib==3.8.3
+numpy==1.26.4
+pandas==2.2.1
+flask_cors
+ollama
+chromadb
+langchain-ollama
+langchain-community
+sentence_transformers
+langchain-huggingface
+pypdf
+sqlalchemy
+PyJWT
+flask-bcrypt
+python-dotenv
