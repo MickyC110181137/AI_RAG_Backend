@@ -7,3 +7,4 @@ Constructing LLM-based AI Assistant to Improve Maritime Certificate Training
 3.使用Huggingface嵌入模型(Embedings)  
 4.儲存到向量資料庫Chroma  
 5.建立檢索對話流程鏈  
+6.使用Flask建立API
